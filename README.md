@@ -3,21 +3,11 @@
 
 ✅ Overview:
 
-🗣️ Good communication skills.
-🔍 Detail-oriented.
-🧠 Out-of-the-box thinker with a focus on usability.
-💡 Passionate about creating outstanding User Experiences.
+🗣️ Good communication skills. <br>
+🔍 Detail-oriented.<br>
+🧠 Out-of-the-box thinker with a focus on usability.<br>
+💡 Passionate about creating outstanding User Experiences.<br>
 🚀 Pro at problem-solving.
-
-✅ Technologies I Work With:
-
-🌐 HTML/HTML5
-🎨 CSS3/SASS/SCSS
-🚀 JavaScript (VanillaJS/jQuery/ReactJS)
-📐 Bootstrap, TailwindCSS
-📦 Webpack, Vite
-🔄 Git (GitHub/BitBucket/GitLab)
-🎞️ 2D website animations (GSAP, Locomotive Scroll, Lenis Scroll, FullPage.js, Lottie, GIF)
 
 🌟 Let's collaborate and turn your ideas into digital masterpieces! Feel free to reach
 
