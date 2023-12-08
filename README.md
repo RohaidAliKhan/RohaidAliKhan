@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohaid ali khan</h1>
+<h1 align="center">Hi 👋, I'm Rohaid Ali Khan</h1>
 <h3 align="center"> A professional Frontend Developer with a knack for turning ideas into captivating digital experiences. </h3>
 
 ✅ Overview:
