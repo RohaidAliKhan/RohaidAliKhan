@@ -11,7 +11,7 @@
 
 🌟 Let's collaborate and turn your ideas into digital masterpieces! Feel free to reach
 
-- 👨‍💻 All of my projects are available at [rohaidalikhan.vercel.app](rohaidalikhan.vercel.app)
+- 👨‍💻 My recent projects are available at [rohaidalikhan.com](https://www.rohaidalikhan.com/)
 
 - 📫 How to reach me **rohaidalikhan@gmail.com**
 
